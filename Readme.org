@@ -1,0 +1,14 @@
+# -*- mode: org -*-
+#+TITLE: 楚辭
+#+PROPERTY: ID KR4a0001
+* 楚辭 目次
+[[file:KR4a0001_001.txt][1 〈離騷經〉]]
+[[file:KR4a0001_002.txt][2 〈九歌〉]]
+[[file:KR4a0001_003.txt][3 〈天問〉]]
+[[file:KR4a0001_004.txt][4 〈九章〉]]
+[[file:KR4a0001_005.txt][5 〈遠遊〉]]
+[[file:KR4a0001_006.txt][6 〈卜居〉]]
+[[file:KR4a0001_007.txt][7 〈漁父〉]]
+[[file:KR4a0001_008.txt][8 〈九辯〉]]
+[[file:KR4a0001_009.txt][9 〈招魂〉]]
+[[file:KR4a0001_010.txt][10 〈大招〉]]
